@@ -11,12 +11,8 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <>
     <h1 className='heading_name'>TheMovie<span className='heading_span'>Flix</span></h1>,
+          <App />
    
-      <App />
-     
-
-  {/* {Sdata.map(ncard)} */}
-
   </>,
   document.getElementById('root')
 );
